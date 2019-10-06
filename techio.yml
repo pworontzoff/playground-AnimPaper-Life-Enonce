@@ -1,4 +1,36 @@
-title: Simple C Template
+title : Exercices Papers animés - Le jeu de la vie - Solutions
+
+# Table of contents
 plan:
-- title: C Snippet
-  statement: statement.md
+  - title: Paper animé avec step_display() - Exemple # Set the page title
+    statement: markdowns/welcome.md # Set the file path to the page content.
+  - title: Exercice 1 - Le jeu de la vie - un clignotant
+    statement: markdowns/vie.md
+  - title: Exercice 2 - Le jeu de la vie - un canon à planeurs
+    statement: markdowns/vie2.md
+  - title: Exercice 3 - Le jeu de la vie - configuration aléatoire
+    statement: markdowns/vie3.md
+
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  animPaperWithStepDisplay:
+    root: "/AnimPaper_step_display_sample"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  vie:
+    root: "/vie"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  vie2:
+    root: "/vie2"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  vie3:
+    root: "/vie3"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
