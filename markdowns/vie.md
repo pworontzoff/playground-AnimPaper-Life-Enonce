@@ -4,6 +4,8 @@ Commençons par une petite "séance cinoche" :
 
 https://www.youtube.com/watch?v=S-W0NX97DB0
 
+([Télécharger](https://www.dropbox.com/s/ay8mr2rndmn1yur/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mp4?dl=0))
+
 Le challenge consiste à créer et faire évoluer un "clignotant", comme montré à cet endroit de la vidéo : https://youtu.be/S-W0NX97DB0?t=185 ([Télécharger](https://github.com/pworontzoff/playground-AnimPaper-Life-Enonces/blob/master/markdowns/videos/animEx1.mp4?raw=true))
 
 Pour cela, nous allons coder les règles d'évolutions du jeu de la vie :
