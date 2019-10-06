@@ -4,7 +4,7 @@ Commençons par une petite "séance cinoche" :
 
 https://www.youtube.com/watch?v=S-W0NX97DB0
 
-Le challenge consiste à créer et faire évoluer un "clignotant", comme montré à cet endroit de la vidéo : https://youtu.be/S-W0NX97DB0?t=185
+Le challenge consiste à créer et faire évoluer un "clignotant", comme montré à cet endroit de la vidéo : https://youtu.be/S-W0NX97DB0?t=185 ([Télécharger](https://github.com/pworontzoff/playground-AnimPaper-Life-Enonces/blob/master/markdowns/videos/animEx1.mp4?raw=true))
 
 Pour cela, nous allons coder les règles d'évolutions du jeu de la vie :
 - une case noire devient blanche uniquement si celle-ci est entourée de moins de 2 ou de plus de 3 voisines ;
