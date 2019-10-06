@@ -1,4 +1,4 @@
-title : Exercices Papers animés - Le jeu de la vie - Solutions
+title : Exercices Papers animés - Le jeu de la vie - Enoncés
 
 # Table of contents
 plan:
@@ -19,18 +19,8 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
-  vie:
-    root: "/vie"
-    runner:
-      name: techio/cmake-gcc-runner
-      version: latest
-  vie2:
-    root: "/vie2"
-    runner:
-      name: techio/cmake-gcc-runner
-      version: latest
-  vie3:
-    root: "/vie3"
+  exercices:
+    root: "/exercices"
     runner:
       name: techio/cmake-gcc-runner
       version: latest
