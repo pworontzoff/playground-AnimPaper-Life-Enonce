@@ -14,4 +14,4 @@ Dans l'exemple aléatoire donné plus haut, on a environ une cellule sur 5 (1 ca
 
 Bon travail !
 
-@[Exercice 3]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "vie3"})
+@[Exercice 3]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
