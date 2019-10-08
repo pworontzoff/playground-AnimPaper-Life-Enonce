@@ -14,4 +14,4 @@ Dans notre cas, nous obtiendrons donc (contrairement à l'animation de la vidéo
 
 Bon travail !
 
-@[Exercice 2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
+@[Exercice 2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "vie2"})
