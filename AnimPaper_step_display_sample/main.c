@@ -4,21 +4,27 @@
 
 int main()
 {
-    init_paper(5,5,25,0.25,1);
+    init_paper(5,5,25,0.25,0);
     repeat(9) {
-        if (get_color()==white) {
-            change_color(black);
+        if (!is_colored()) {
+            colorize();
+            move_right();
+            colorize();
+            move_down();
+            colorize();
+            move_left();
+            colorize();
+            move_up();
         } else {
-            change_color(white);
+            erase();
+            move_right();
+            erase();
+            move_down();
+            erase();
+            move_left();
+            erase();
+            move_up();
         }
-        colorize();
-        move_right();
-        colorize();
-        move_down();
-        colorize();
-        move_left();
-        colorize();
-        move_up();
         step_display();
     } loop;
     display_paper();    
