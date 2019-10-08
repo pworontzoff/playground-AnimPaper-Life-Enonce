@@ -42,4 +42,4 @@ les nombres de voisines sur base desquels on prend les décisions :
 
 Bon travail !
 
-@[Exercice 2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "vie"})
+@[Exercice 2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
