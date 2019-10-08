@@ -1,6 +1,6 @@
 # Exercice 2 - Le jeu de la vie, v2 : un canon à planeurs
 
-Le challenge consiste à créer et faire évoluer un "canon à planeurs", comme montré à cet endroit de la vidéo : https://youtu.be/S-W0NX97DB0?t=484 ([Télécharger](https://github.com/pworontzoff/playground-AnimPaper-Life-Enonces/blob/master/markdowns/videos/animEx2.mp4?raw=true))
+Le challenge consiste à créer et faire évoluer un "canon à planeurs", comme montré à cet endroit de la vidéo : https://youtu.be/S-W0NX97DB0?t=484 ([Télécharger](https://github.com/pworontzoff/playground-AnimPaper-Life-Enonce/blob/master/markdowns/videos/animEx2.mp4?raw=true))
 
 Pour cela, nous allons programmer (sur une grille de 40x60 cases de 10 pixels, avec un délai d'animation de 0,05s) la configuration initiale suivante :
 
