@@ -4,7 +4,7 @@
 
 int main()
 {
-    init_paper(5,5,25,0.25,0);
+    init_paper(5,5,25,0.25,1);
     repeat(9) {
         if (!is_colored()) {
             colorize();
