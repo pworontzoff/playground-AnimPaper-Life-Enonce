@@ -24,7 +24,7 @@ Pour cet exercice, on peut se limiter à 10 étapes (10 générations), afin d'o
 
 ## Quelques remarques
 
-Pour que le jeu de la vie fonctionne bien, il faut prendre en compte les nombre de voisins lors d'une  génération et décider du sort de chaque case (naissance ou mort) sur base de ces nombres !
+Pour que le jeu de la vie fonctionne bien, il faut prendre en compte les nombre de cellules voisines lors d'une  génération et décider du sort de chaque case (naissance ou mort) sur base de ces nombres !
 
 Par exemple, avec le clignotant, on doit prendre en compte uniquement les nombres de voisines suivants :
 
